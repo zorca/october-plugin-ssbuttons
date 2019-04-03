@@ -1,0 +1,18 @@
+{
+  "name": "martin/ssbuttons",
+  "type": "october-plugin",
+  "description": "Social Sharing Buttons plugin",
+  "keywords": ["october", "cms", "demo", "plugin"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Zorca",
+      "email": "vs@zorca.org",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.0",
+    "composer/installers": "~1.0"
+  }
+}
